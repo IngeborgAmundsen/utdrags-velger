@@ -1,0 +1,57 @@
+Bartok Miraculous Mandarin 1
+Bartok Miraculous Mandarin 2
+Beethoven 4 1
+Beethoven 4 2
+Beethoven 4 3
+Beethoven 6 1
+Beethoven 6 2
+Beethoven 6 3
+Beethoven 6 4
+Beethoven 8
+Brahms 3 1
+Brahms 3 2
+Brahms 3 3
+Brahms 3 4
+Berlioz Symphonies Fantastique
+Kodaly Galanta 1
+Kodaly Galanta 2
+Mendelssohn Midsummer 1
+Mendelssohn Midsummer 2
+Mendelssohn Midsummer 3
+Mendelssohn Midsummer 4
+Mendelssohn Scottish 1
+Mendelssohn Scottish 2
+Mendelssohn Scottish 3
+Mozart Clemenza di Tito
+Prokofiev Peter and the Wolf
+Puccini Tosca
+Ravel Concerto in G
+Respighi Pini di Roma 1
+Respighi Pini di Roma 2
+Respighi Pini di Roma 3
+Rimsky-Korsakov Capriccio Espagnol 1
+Rimsky-Korsakov Capriccio Espagnol 2
+Rimsky-Korsakov Capriccio Espagnol 3
+Rimsky-Korsakov Scheherezade 1
+Rimsky-Korsakov Scheherezade 2
+Rimsky-Korsakov Scheherezade 3
+Rimsky-Korsakov Scheherezade 4
+Rimsky-Korsakov Scheherezade 5
+Rimsky-Korsakov Scheherezade 6
+Rimsky-Korsakov Scheherezade 7
+Rossini Barbiere di Seviglia 1
+Rossini Barbiere di Seviglia 2
+Rossini Barbiere di Seviglia 3
+Rossini Semiramis 1
+Rossini Semiramis 2
+Shostakovich 9 1
+Shostakovich 9 2
+Stravinsky Firebird
+Tchaikovsky Francesca da Rimini
+Tchaikovsky 6 1
+Tchaikovsky 6 2
+Tchaikovsky 6 3
+Verdi Forza 1
+Verdi Forza 2
+Verdi Traviata
+Verdi Luisa Miller
