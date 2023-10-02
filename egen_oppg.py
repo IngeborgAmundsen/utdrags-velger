@@ -1,10 +1,6 @@
-# Dette er et program som jeg har lagd til kjæresten min, som han har behov for i forbindelse med et prøvespill.
-# Jeg ba han skrive ned alle utdrag som han må øve på (utdragene er korte, mindre deler fra f.eks. en symfoni,
-# der juryen velger tilfeldige utdrag) og jeg kopierte de til
-
 import random
 
-with open("oblig5/utdrag.txt") as file:
+with open("utdrag.txt") as file:
     content = file.readlines()
     list_excerpts = []
     for utdrag in content:
@@ -14,7 +10,6 @@ with open("oblig5/utdrag.txt") as file:
 print("Hei og velkommen til utdrags-velgeren!")
 print()
 
-# printer ascii-art av en klarinett:
 print("""⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⢸⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠻⠻⣤⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
